@@ -62,7 +62,7 @@ body {
 }
 
 a {
-    color: #f06;
+    color: #3f00ff;
 }
 
 blockquote {
@@ -104,7 +104,7 @@ img.txt {
 a:hover,
 a:active,
 a:visited {
-    color: #f06;
+    color: #3f00ff;
     text-decoration: underline;
 }
 
