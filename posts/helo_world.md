@@ -1,8 +1,7 @@
-title: Hello World
+title: Hello Welt
 slug: hello-world
-date: 2021-04-09 14:30:00
+date: 09-04-2021 14:30:00
 tags: test
-files: 
 ---
 
 _Hallo Welt!_
