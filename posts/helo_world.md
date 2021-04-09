@@ -1,14 +1,11 @@
 title: Hello World
 slug: hello-world
-date: 2015-04-13 18:00:00
-tags: opensource, python
-files: tor-people.jpg, gnulaptop.png
+date: 2021-04-09 14:30:00
+tags: test
+files: 
 ---
 
-_Welcome to monopati!_
+_Hallo Welt!_
 
-This is a sample blog post, containing two pictures.
+Dieser Beitrag ist ein Test und gleichzeitig auch ein Platzhalter für die demnächst folgenden Blogbeiträge.
 
-![Keep walking](tor-people.jpg)
-
-![hack around](gnulaptop.png)
